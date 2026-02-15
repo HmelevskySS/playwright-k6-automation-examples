@@ -1,6 +1,6 @@
-# Senior QA Automation & Performance Project
+# Playwright automation & K6 Performance project
 
-This repository is a production-style solution for the Senior Quality Engineer assignment.
+This repository is a production-style solution for the web application.
 It includes:
 
 - UI automation on Saucedemo with Playwright + TypeScript

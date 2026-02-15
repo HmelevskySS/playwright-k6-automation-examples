@@ -1,0 +1,8 @@
+node_modules
+playwright-report
+allure-results
+allure-report
+test-results
+reports
+.DS_Store
+#.env - need to ignore .env file if it contains sensitive information
